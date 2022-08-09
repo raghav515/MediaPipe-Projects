@@ -1,7 +1,7 @@
 # MediaPipe-Projects
 This Repository contains some projects that I made during my course of learning OpenCV with MediaPipe.
 * * *
-## Installing Discrepancies
+## Installing Dependencies
 ``` python -m pip install - r requirements.txt ```
 ***
 ### Brief
