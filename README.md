@@ -10,3 +10,5 @@ This Repository contains some projects that I made during my course of learning 
 - Basic knowledge of OpenCV library is recommended. But, as said earlier it is not a compulsion.
 - This repository is still incomplete, I have more to add in it.
 ***
+
+``` git clone https://github.com/raghav515/MediaPipe-Projects ```
