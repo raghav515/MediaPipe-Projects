@@ -24,7 +24,7 @@ earserThickness=50
 cap = cv2.VideoCapture(0)
 cap.set(3, 1280)
 cap.set(4, 720)
-detector = htm.handDetector(detectionCon=0.85)
+detector = htm.handDetector(maxHands=1,detectionCon=0.85)
 while True:
     success, img = cap.read()
     img = detector.findHands(img)
@@ -79,3 +79,5 @@ while True:
         break
 
 cv2.destroyAllWindows()
+#ADD GESTURE
+#ADD GESTURE FOR OPENING A NEW TAB
